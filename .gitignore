@@ -1,0 +1,13 @@
+# Python
+env/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+dist/
+.vite/
+
+# System files
+.DS_Store
+Project Gov-x.docx
